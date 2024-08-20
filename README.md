@@ -44,6 +44,9 @@ These analytics gave the Marketing Team visibility into user behavior of the mus
 
 This dashboard from Google Analytics gives a summary of user behavior for our time frame. Users spent an average of 1 minute, 29 seconds on the site, and the average bounce rate was 59.96%.
 
+<p align="center">
+    <img width="1506" alt="Screenshot 2024-08-20 at 12 49 48 PM" src="https://github.com/user-attachments/assets/3e2a92ee-b734-410d-80e5-0e2d2c8a1142">
+</p>
 
 Further analysis revealed that on average, there were 3,446 page views per month. Users also spent an average of 1 minute, 28 seconds on a page. The daily number of users ranged from 21 users (December 25, 2020) to 990 (May 17, 2021) with an overall average of about 46.65 users per day
 
@@ -51,9 +54,11 @@ Further analysis revealed that on average, there were 3,446 page views per month
 
 This bar chart shows that a little more than half of the site’s users got to the website through organic search. Organic search also had the lowest bounce rate.
 
+![Acquisition Overview (% Users + Bounce Rate)](https://github.com/user-attachments/assets/15156e95-1de3-487e-b99a-9f2ee5a827ff)
 
 Email drew the lowest number of users and also had the highest bounce rate. A link to the site is included in all monthly newsletters and in the signatures of all staff, but the data hints that these users are accidentally clicking on these links rather than purposely going to the site.
 
+![% of total vs  Social Network](https://github.com/user-attachments/assets/0db53d77-a500-42e5-8f89-094173a7cabd)
 
 Social media has directed 5.77% of users to the site. The museum’s top 5 social medias, ranked by the percentage of users directed to the site, are:
 1. Facebook
@@ -68,14 +73,17 @@ Social media has directed 5.77% of users to the site. The museum’s top 5 socia
 
 **Behavior**
 
+![Pageviews vs  Page](https://github.com/user-attachments/assets/bbf172d5-3b39-45ab-b915-214210322504)
 
 This chart shows the Top 10 Pages of the site, based on pageviews. The most active areas of the site are the Home page, followed by the Exhibitions page, and Donate and Contact are the least active. However, there are more than 10 pages on the site, so it’s worth noting that pages not included, such as the Blog, are not very active.
 
+![Bounce Rate vs  Page](https://github.com/user-attachments/assets/a309ba03-f6a7-4ea3-b1c7-1119757d2bf2)
 
 The Contact page has the highest bounce rate out of the most popular pages, and the Home page has the lowest. 
 
 The museum’s overall site bounce rate is just under 60%, and for Google Analytics optimal bounce rate is typically between 26% and 40%. A high bounce rate is considered bad if the success of the site depends on users viewing more than one page. However, it’s possible for site visitors to get their desired information from a single page.
- 
+
+ ![Avg  Time on Page vs  Page](https://github.com/user-attachments/assets/c7e6fe76-ed99-41eb-bd80-5fd37ccbbb3b)
 
 Users spend the most time on the Contact page, perhaps leaving the page open while they draft an email to the appropriate contact. Users spend the least amount of time on the Exhibitions page, but this page houses the links to all of the individual exhibit pages.
 
@@ -83,12 +91,22 @@ All times spent on a page are all relatively short, but most pages on the site d
 
 **User Trends**
 
+The dates with the highest number of pageviews are:
+* November 5, 2020 -- 366 pageviews
+* March 22, 2021 -- 838 pageviews 
+* April 9, 2021 -- 842 pageviews (Facebook post: Stop Asian Hate )
+* April 10, 20201 -- 911 pageviews (Facebook post: Auction Information)
+* May 17, 2021 -- 990 pageviews
 
-According to the data, auctions appear to drive website traffic. The museum had two auctions in November 2020 and April 2021. This analysis also shows that Facebook posts do not hold a strong correlation with website traffic when they contain a link to the site.
+Based on this analysis, it does not appear that Facebook posts hold a strong correlation with website traffic when they contain a link to the site.
 
 **Recommendations**
 
-Since the museum is interested in expanding its social media presence, it may be a good idea to focus on Twitter, Yelp, and YouTube. Twitter engagement can be as simple as tweeting out a relevant fact everyday. It might also be beneficial to claim the museum on Yelp and maybe keep tabs on reviews.
+To encourage more donations and young volunteer engagement, donation and volunteer information should be clearly listed on the Home page. Links to their individual pages should be included. In addition, a short little blurb about why donations and volunteer involvement are so important to the museum may help encourage participation! 
+
+Since the museum is interested in expanding its social media presence beyond Facebook and Instagram, the most logical platforms to utilize based on this analysis are Twitter, Yelp, and YouTube. Twitter engagement can be as simple as tweeting out a relevant fact everyday. It might also be beneficial to claim the museum on Yelp and maybe keep tabs on reviews.
+
+In order to provide more specific recommendations, the museum needs to determine what they want users to get out of the website and whether or not that aligns with what users are looking to get out of the website. To figure out what users want, the museum could have a tiny pop-up survey asking users if they are getting the information they’re looking for when visiting the website. This information can then help inform what changes need to be made to increase engagement.
 
 ## Next Steps
 
